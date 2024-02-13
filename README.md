@@ -1,17 +1,11 @@
 Clone the Repository: Use git clone to clone the repository of the Django application from GitHub to your local machine.
 
-bash
-Copy code
 git clone <repository_url>
 Navigate to the Project Directory: Change your current directory to the root directory of the cloned project.
 
-bash
-Copy code
 cd <project_directory>
 Create a Virtual Environment: It's a good practice to create a virtual environment for your Django project to isolate its dependencies.
 
-bash
-Copy code
 python -m venv venv
 Activate the Virtual Environment: Activate the virtual environment to install dependencies and run the Django application.
 
